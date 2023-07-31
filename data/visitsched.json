@@ -1,0 +1,29 @@
+{
+    "visitschedule": [
+      {
+        "id": 1,
+        "code": "ScrVisit",
+        "name": "Screening Visit"
+      },
+      {
+        "id": 2,
+        "code": "RandVisit",
+        "name": "Patient Randomization Visit"
+      },
+	   {
+        "id": 3,
+        "code": "Visit1",
+        "name": "Visit Day 1"
+      },
+	   {
+        "id": 4,
+        "code": "Visit7",
+        "name": "Visit Day 7"
+      },
+	   {
+        "id": 5,
+        "code": "Visit14",
+        "name": "Visit Day 14"
+      }
+    ]
+  }

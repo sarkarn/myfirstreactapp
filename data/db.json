@@ -1,0 +1,67 @@
+{
+  "visitschedule": [
+    {
+        "id": 1,
+        "code": "ScrVisit",
+        "name": "Screening Visit"
+      },
+      {
+        "id": 2,
+        "code": "RandVisit",
+        "name": "Patient Randomization Visit"
+      },
+	   {
+        "id": 3,
+        "code": "Visit1",
+        "name": "Visit Day 1"
+      },
+	   {
+        "id": 4,
+        "code": "Visit7",
+        "name": "Visit Day 7"
+      },
+	   {
+        "id": 5,
+        "code": "Visit14",
+        "name": "Visit Day 14"
+      }
+   
+  ], 
+"casereportforms":[
+       {
+        "id": 1,
+        "visitcode": "ScrVisit",
+        "visitname": "Screening Visit",
+		"crfcode": "SCRFORM",
+		"crfname": "Screening Form"
+      },
+      {
+        "id": 2,
+        "visitcode": "ScrVisit",
+        "visitname": "Screening Visit",
+		"crfcode": "PhysicalForm",
+		"crfname": "Physical Form"
+      },
+	   {
+        "id": 3,
+        "visitcode": "RandVisit",
+        "visitname": "Randomization Visit",
+		"crfcode": "RANDFORM",
+		"crfname": "Randomization Form"
+      },
+	   {
+        "id": 4,
+        "visitcode": "Visit1",
+        "visitname": "Visit Day 1",
+		"crfcode": "ECGFORM",
+		"crfname": "ECG Form"
+      },
+	   {
+        "id": 5,
+        "visitcode": "Visit7",
+        "visitname": "Visit Day 7",
+		"crfcode": "MRIFORM",
+		"crfname": "MRI Form"
+      }
+  ]
+}

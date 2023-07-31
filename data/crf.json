@@ -1,0 +1,39 @@
+{
+    "visitschedule": [
+      {
+        "id": 1,
+        "visitcode": "ScrVisit",
+        "visitname": "Screening Visit",
+		"crfcode": "SCRFORM",
+		"crfname": "Screening Form"
+      },
+      {
+        "id": 2,
+        "visitcode": "ScrVisit",
+        "visitname": "Screening Visit",
+		"crfcode": "PhysicalForm",
+		"crfname": "Physical Form"
+      },
+	   {
+        "id": 3,
+        "visitcode": "RandVisit",
+        "visitname": "Randomization Visit",
+		"crfcode": "RANDFORM",
+		"crfname": "Randomization Form"
+      },
+	   {
+        "id": 4,
+        "visitcode": "Visit1",
+        "visitname": "Visit Day 1",
+		"crfcode": "ECGFORM",
+		"crfname": "ECG Form"
+      },
+	   {
+        "id": 5,
+        "visitcode": "Visit7",
+        "visitname": "Visit Day 7",
+		"crfcode": "MRIFORM",
+		"crfname": "MRI Form"
+      }
+    ]
+  }
